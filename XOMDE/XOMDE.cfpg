@@ -1,0 +1,11 @@
+<Projects version="2.0">
+	<Project active="1">XOMDE.cfp</Project>
+	<File active="0">..\User\main.c</File>
+	<File active="0">..\Common\inc\core_cm0.h</File>
+	<File active="0">gpio.h</File>
+	<File active="0">..\type.h</File>
+	<File active="0">..\Common\src\gpio.c</File>
+	<File active="0">..\Common\src\uart.c</File>
+	<File active="0">..\userinc\XMODE.h</File>
+	<File active="1">..\User\XMODE.c</File>
+</Projects>

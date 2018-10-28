@@ -1,0 +1,1 @@
+"..\Common\src\Serial.c" -E -c --cpu Cortex-M0 --li -O0 --apcs=interwork -I..\Common\inc -I..\userinc -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\ARM" -D__DEBUG_FLASH -o "serial.i"
